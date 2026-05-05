@@ -1,0 +1,118 @@
+{
+  "repeated_patterns": [
+    {
+      "pattern": "we help",
+      "count": 2,
+      "n": 2
+    },
+    {
+      "pattern": "help teams",
+      "count": 2,
+      "n": 2
+    },
+    {
+      "pattern": "we help teams",
+      "count": 2,
+      "n": 3
+    },
+    {
+      "pattern": "teams",
+      "count": 4,
+      "n": 1,
+      "type": "overlap"
+    }
+  ],
+  "bland_language_flags": [
+    {
+      "term": "solutions",
+      "count": 2,
+      "severity": "medium"
+    },
+    {
+      "term": "efficient",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "end-to-end",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "excellence",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "impact",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "innovative",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "leading",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "robust",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "scalable",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "seamless",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "service",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "services",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "transform",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "term": "trusted",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "whitespace_suggestions": [
+    "Name what your category avoids talking about (taboo truths, tradeoffs, constraints).",
+    "Write 3 claims without any industry nouns (e.g., platform, solution, service).",
+    "Swap every abstract adjective for concrete sensory evidence.",
+    "Describe your offer as a ritual, not a feature list.",
+    "Draft a one-sentence anti-position: what you refuse to promise.",
+    "Borrow a voice from outside your category (coach, comedian, scientist) and rewrite a headline.",
+    "Write the same message for skeptics first, advocates second."
+  ],
+  "summary": {
+    "brand_token_count": 29,
+    "competitor_token_count": 36,
+    "shared_terms": 1,
+    "repeated_patterns": 3,
+    "bland_flags": 15
+  }
+}
